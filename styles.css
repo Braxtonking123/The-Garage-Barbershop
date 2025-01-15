@@ -41,7 +41,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: row;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.5);
 }
     #logo-container{
         width: 30%;
