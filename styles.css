@@ -98,6 +98,7 @@ body {
     flex-direction: row;
     background-image: url("main-container-photo.png");
     background-position: center;
+    background-attachment: scroll;
     background-size: cover;
     margin-bottom: 30px;
 }
