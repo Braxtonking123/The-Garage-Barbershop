@@ -451,6 +451,24 @@ body {
                     background-size: contain;
                     background-repeat: no-repeat;
                 }
+                #img-card-eight{
+                    background-image: url("barber-eight.png");
+                    background-position: center;
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                }
+                #img-card-nine{
+                    background-image: url("barber-nine.png");
+                    background-position: center;
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                }
+                #img-card-ten{
+                    background-image: url("barber-ten.png");
+                    background-position: center;
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                }
 
         .barber-names{
             width: 100%;
